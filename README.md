@@ -4,4 +4,4 @@ LAN enumerator
 USAGE:
 Run from php interpreter:
 
-php enumremopve.php
+Php enumremove.php

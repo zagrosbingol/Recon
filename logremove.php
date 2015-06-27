@@ -16,7 +16,7 @@ echo "   _______________
           \_         _/
             \_______/
 
-             SDL ANTI-FORENSIK AIE - SER >VI< DÖDA UT? :0000 - Paddox - SDL - Swedish Defence League \n";
+             Log raser - Zagros Bingöl \n";
 echo "Looking up kernel and Distro\n";
 sleep(3);
 
